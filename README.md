@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 • 👯 I’m looking to collaborate in interesting projects
 
-• 🌱I’m currently learning Python Backend Development and Compose Kotlin Android Development 
+• 🔭 I’m currently working on Kotlin Multi Platform Development
+
+• 🌱 I’m currently learning Kotlin and Python  
 
 • 📫How to reach me: avasthiarshay0@gmail.com 
       
